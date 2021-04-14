@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: SALISTERRA SOFTWARE DIVISION
-image: /img/home-jumbotron.jpg
+image: /img/james-harrison-vpoexr5wmr4-unsplash.jpg
 heading: Great coffee with a conscience
 subheading: EXCELENCE IS POSSIBLE
 mainpitch:
